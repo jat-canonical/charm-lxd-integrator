@@ -6,5 +6,5 @@ module.exports = {
   onboarding: true,
   platform: "github",
   includeForks: true,
-  repositories: ["canonical/charm-lxd-integrator"],
+  repositories: ["canonical/lxd-integrator-operator"],
 }

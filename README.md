@@ -77,7 +77,7 @@ has been processed by the `provides` side, it should be available in the
 Security issues in the operator can be reported through [LaunchPad](https://wiki.ubuntu.com/DebuggingSecurity#How%20to%20File) on the [Anbox Cloud](https://bugs.launchpad.net/anbox-cloud) project. Please do not file GitHub issues about security issues.
 
 ## Contributing
-Please see the [Juju SDK docs](https://juju.is/docs/sdk) for guidelines on enhancements to this charm following best practice guidelines, and [CONTRIBUTING.md](https://github.com/canonical/charm-lxd-integrator/blob/main/CONTRIBUTING.md) for developer guidance.
+Please see the [Juju SDK docs](https://juju.is/docs/sdk) for guidelines on enhancements to this charm following best practice guidelines, and [CONTRIBUTING.md](https://github.com/canonical/lxd-integrator-operator/blob/main/CONTRIBUTING.md) for developer guidance.
 
 ## License
 The LXD Integrator Charm is distributed under the Apache Software License, version 2.0.
